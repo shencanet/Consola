@@ -1,0 +1,276 @@
+body {
+	
+    
+    margin: 0em;
+    padding: 0em;
+    display: flex;
+    
+    
+    
+    
+}
+
+#consola{
+
+    height: 14em;
+    width: 28em;
+    display: flex;
+    flex-direction: row;
+    
+    
+
+background-color: gray;
+
+
+}
+
+
+#lado_cruzeta{
+   
+    height: 14em;
+    width: 8em;
+
+background-color:gray;
+
+
+}
+
+#lado_pantalla{
+   
+    height: 14em;
+    width: 12em;
+
+background-color: gray;
+
+}
+
+#lado_botones{
+    
+    height: 14em;
+    width: 8em;
+    background-color: gray;
+
+}
+#sup_pantalla{
+    height: 2em;
+    width: 12em;
+    background-color: grey;
+    border-radius: 5px 5px 5px 5px;
+
+
+}
+
+#pantalla{
+
+    height: 9em;
+    width: 12em;
+    background-color:#23252d;
+}
+
+#sup_cruzeta{
+
+    height: 3em;
+    width: 8em;
+    background-color: grey;
+    border-radius: 15px 0px 0px 0px;
+
+}
+
+#cruzeta{
+    height: 8em;
+    width: 8em;
+    background-color: gray;
+    
+
+
+}
+
+#inf_cruzeta{
+
+    height: 3em;
+    width: 8em;
+    background-color: grey;
+    border-radius: 0px 0px 0px 15px;
+
+}
+
+#sup_botones{
+
+    height: 4em;
+    width: 8em;
+    background-color: gray;
+    border-radius: 0px 30px 0px 0px ;
+
+}
+
+#botones{
+
+    height: 6em;
+    width: 8em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: gray;
+    
+
+}
+
+#inf_botones{
+
+    height: 4em;
+    width: 8em;
+    background-color: grey;
+    border-radius: 0px 0px 15px 0px;
+
+}
+
+#boton_a{
+    
+    width: 2em;
+    height:2em;
+    border-radius: 50%;
+    background-color: blue;
+
+
+}
+
+#boton_b{ 
+    
+    width: 2em;
+    height: 2em;
+
+    border-radius: 40%;
+    background-color: red;
+}
+
+
+#bloque_arriba{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#bloque_medio{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+
+}
+
+#bloque_abajo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    
+
+
+}
+
+
+
+#vacio1{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: gray;
+
+
+}
+#arriba{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: black;
+
+
+}
+#izquierda{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: black;
+
+
+}
+#derecha{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: black;
+
+
+}
+#centro{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: rgb(22, 18, 18);
+
+
+}
+#abajo{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: black;
+
+
+}
+#vacio2{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: gray;
+
+
+}
+#vacio3{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: gray;
+
+
+}
+#vacio4{
+    width: 2,6em;
+    height: 2,6em;
+    background-color: gray;
+
+
+}
+
+#inf_pantalla{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;
+    
+    
+}
+
+#start{
+    
+    display: flex;
+   
+    
+    flex-direction: row;
+    
+    border-left: 50px solid transparent;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    background-color: green;
+    border-radius: 20%;
+
+}
+
+#select{
+    width: 0;
+    height: 0;
+    
+    border-left: 50px solid transparent;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    background-color: green;
+    border-radius: 20%;
+
+
+}
